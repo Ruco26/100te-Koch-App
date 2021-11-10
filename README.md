@@ -1,1 +1,1 @@
-# fiktiv-Project
+Mit dieser Koch App soll das Kochen leichter, spannender und spaßiger werden. Man kann zwischen Nationalitäten, vegetarisch, vegan, mit Fleisch und noch vielmehr wählen. Tips und Tricks von anderen Usern sind auch vorhanden. Zudem können Gerichte auch nach dem jeweiligen Lebenstil gewählt werden. Gerichte können auch gespeichert, geteilt, selber erstellt werden und nach seinen Vorlieben verändert werden. 
